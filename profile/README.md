@@ -1,6 +1,10 @@
-## Hi there 👋
+## Welcome to the [secretic.app](https://secretic.app)
 
-Secretic is an PHP-application with which you can create secret notes that will self-destruct after being read. 
+
+Secretic is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. 
+
+On [secretic.app](https://secretic.app) you can create secret notes that will self-destruct after being read. 
+
 
 <!--
 
